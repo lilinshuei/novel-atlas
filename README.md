@@ -40,6 +40,8 @@ novel-atlas 把同一本书拆成六个可以互相跳转的视角：读到哪�
 dsh plugin --profile web add novel-atlas
 ```
 
+在 DSH 桌面端的「添加插件」窗口里，只填包名 `novel-atlas`，不要粘贴整条命令。
+
 包已发布到 npm registry，命令最短，也不依赖 GitHub 访问。桌面端把 `web` 换成 `desktop`；装完重启 DSH，新会话即可调用。
 
 ### 从 GitHub 安装
