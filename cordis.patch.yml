@@ -1,0 +1,11 @@
+# ===========================================================================
+# novel-atlas — DSH bundle patch
+# ===========================================================================
+# 安装：
+#   dsh plugin --profile web add github:lilinshuei/novel-atlas
+#   dsh plugin --profile desktop add github:lilinshuei/novel-atlas
+# ===========================================================================
+
+- insert:
+    - id: novel-atlas
+      name: novel-atlas
