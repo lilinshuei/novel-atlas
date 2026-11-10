@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="novel-atlas · 小说互动看板" width="100%">
 
-<h1>novel-atlas · 小说互动看板</h1>
+<h1>novel-atlas · 男性向小说互动看板</h1>
 
 <p><b>把一本小说，变成一座可以走进去的世界。</b></p>
 
